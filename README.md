@@ -4,9 +4,9 @@
 
 <h2 align="center">I’m Jai Relan</h2>
 <p align="center">
-  <a href="https://github.com/JaiRelan">Github</a>•
-  <a href="https://www.linkedin.com/in/jairelan/">LinkedIn</a>•
-  <a href="https://jairelan.github.io/">Portfolio</a>•
+  <a href="https://github.com/JaiRelan">Github </a>•
+  <a href="https://www.linkedin.com/in/jairelan/">LinkedIn </a>•
+  <a href="https://jairelan.github.io/">Portfolio </a>•
   <a href="mailto:jairelan.2005@gmail.com">Email</a>
 </p>
 
