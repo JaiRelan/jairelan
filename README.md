@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width=“1000" height=“=400"/>
+	<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width=“600" height=“300"/>
 </p>
 
 <h2 align="center">I’m Jai Relan</h2>
