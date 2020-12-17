@@ -26,5 +26,7 @@ I like to code, make cool shit and change the world.
 
 Feel free to reach out or check some of my work. 
 
+
 Cheers,
+
 Jai Relan
