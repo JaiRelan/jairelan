@@ -1,5 +1,9 @@
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt=“What I Aspire To Be“ width="200" height="200"/>
 
+<p align="center">
+	<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="200"/>
+</p>
+
 <h2 align="center">I’m Jai Relan</h2>
 <p align="center">
   <a href="https://github.com/JaiRelan">Github</a> •
