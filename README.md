@@ -1,7 +1,9 @@
-![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt=“What I Aspire To Be“ width="200"/>
+
 
 <h2 align="center">I’m Jai Relan</h2>
 <p align="center">
   <a href="https://github.com/JaiRelan">Github</a> •
-  <a href="https://www.linkedin.com/in/jairelan/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jairelan/">LinkedIn</a> •
+  <a href=“mailto”:jairelan.2005@gmail.com>Email</a>
 </p>
