@@ -7,5 +7,4 @@
   <a href="https://github.com/JaiRelan">Github</a>•
   <a href="https://www.linkedin.com/in/jairelan/">LinkedIn</a>•
   <a href="mailto:jairelan.2005@gmail.com">Email</a>•
-  [Email](mailto:jairelan.2005@gmail.com)
 </p>
