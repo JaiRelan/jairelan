@@ -22,3 +22,9 @@ We work on ensuring the safety of the visit of the customer in 3 ways:
 
 I've also had previous experience working in entrepreneurship, product design, data analysis and design thinking. In the past few years, I've worked with companies from all over the world, from Delhi to Palo Alto. 
 
+I like to code, make cool shit and change the world. 
+
+Feel free to reach out or check some of my work. 
+
+Cheers,
+Jai Relan
