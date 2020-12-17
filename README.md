@@ -3,14 +3,13 @@
 </p>
 
 <h1 align="center">I’m Jai Relan</h1>
+<h3 align="center">15-year-old Entrepreneur, TEDx Speaker, Co-Founder & CEO @ WhyQ</h3>
 <p align="center">
   <a href="https://github.com/JaiRelan">Github </a>•
   <a href="https://www.linkedin.com/in/jairelan/">LinkedIn </a>•
   <a href="https://jairelan.github.io/">Portfolio </a>•
   <a href="mailto:jairelan.2005@gmail.com">Email</a>
 </p>
-
-## 15-year-old Entrepreneur, TEDx Speaker, Co-Founder & CEO @ WhyQ
 
 Hi, my name is Jai Relan, I'm 15-year-old and I like to do crazy things! 
 
